@@ -1,12 +1,17 @@
 ---
-name: New addition to list
-description: Suggest addition of a new software to the list
-title: '[ADD]: "Software name"'
-labels: ["add", "triage"]
+name: Updated existing software in the list
+description: Suggest update of an existing software in the list
+title: '[UPDATE]: "Software name"'
+labels: ["update", "triage"]
 assignees:
   - mylespat
   - gjherbiet
 body:
+  - type: markdown
+    attributes:
+      value: >
+        **Please fill at least the name of the software and the
+        fields for which you suggest an update.**
   - type: input
     id: name
     attributes:
@@ -20,14 +25,14 @@ body:
       label: Software webpage
       description: URL of the software web page
     validations:
-      required: true
+      required: false
   - type: input
     id: description
     attributes:
       label: Software description
       description: Short description of the software
     validations:
-      required: true
+      required: false
   - type: input
     id: organization
     attributes:
@@ -48,7 +53,7 @@ body:
       label: Category name
       description: Suggested category for the software
     validations:
-      required: true
+      required: false
   - type: checkboxes
     id: category-new
     attributes:
@@ -58,12 +63,12 @@ body:
         - label: Yes, it's a new category
         - label: No, it's an existing category
     validations:
-      required: true
+      required: false
   - type: textarea
     id: motivation
     attributes:
       label: Motivation
-      description: Motivate the addition of the software to the list
+      description: Motivate the update of the software in the list
     validations:
       required: false
   - type: checkboxes
