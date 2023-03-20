@@ -74,7 +74,7 @@ body:
         Check the following boxes to ensure you have completed each step
         before submitting your suggestion
       options:
-        - label: I have checked for other similar suggestions
+        - label: I have checked for other similar issues and pull requests.
         - label: >
             I have replaced "Software name" by the actual name of the
             software in the title

@@ -1,5 +1,5 @@
 ---
-name: Updated existing software in the list
+name: Update existing software in the list
 description: Suggest update of an existing software in the list
 title: '[UPDATE]: "Software name"'
 labels: ["update", "triage"]
@@ -79,7 +79,7 @@ body:
         Check the following boxes to ensure you have completed each step
         before submitting your suggestion
       options:
-        - label: I have checked for other similar suggestions
+        - label: I have checked for other similar issues and pull requests.
         - label: >
             I have replaced "Software name" by the actual name of the
             software in the title
