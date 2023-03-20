@@ -13,6 +13,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 
 - [DNS crawler](https://gitlab.labs.nic.cz/adam/dns-crawler) - DNS crawler for getting info about a huge number of DNS domains. `NIC.CZ` `GPLv3`.
 - [DNS-EMAP](mailto:maarten.wullink@sidn.nl) - Crawler to collect information about .nl domain names, ranging from website-content to TLS certification. `SIDN`.
+- [Mercator](https://github.com/DNSBelgium/mercator) - An Open Source robust and scalable crawler for collecting information on the usage of domain names. `DNS Belgium` `Apache-2.0`.
 - [Signs of Life](https://gitlab.centr.org/centr/crawler/signs-of-life) - Domain name crawler tool used in CENTR. `CENTR`.
 
 
