@@ -1,0 +1,83 @@
+---
+name: New addition to list
+description: Suggest addition of a new software to the list
+title: '[ADD]: "Software name"'
+labels: ["add", "triage"]
+assignees:
+  - mylespat
+  - gjherbiet
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Software name
+      description: Complete name of the software
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Software webpage
+      description: URL of the software web page
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Software description
+      description: Short description of the software
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Editing organization
+      description: Organization that edits the software
+    validations:
+      required: false
+  - type: input
+    id: license
+    attributes:
+      label: Software license
+      description: License under which the software is licensed
+    validations:
+      required: false
+  - type: input
+    id: category-name
+    attributes:
+      label: Category name
+      description: Suggested category for the software
+    validations:
+      required: true
+  - type: checkboxes
+    id: category-new
+    attributes:
+      label: New category
+      description: Is the suggested category a new category?
+      options:
+        - label: Yes, it's a new category
+        - label: No, it's an existing category
+      validations:
+        required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Motivate the addition of the software to the list
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Addition checklist
+      description: >
+        Check the following boxes to ensure you have completed each step
+        before submitting yor suggestion
+      options:
+        - label: I have checked for other similar suggestions
+        - label: >
+            I have replaced "Software name" by the actual name of the
+            software in the title
+        - label: I have filled all mandatory fields
+    validations:
+      required: true
