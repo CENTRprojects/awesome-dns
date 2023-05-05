@@ -10,6 +10,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [Crawlers](#crawlers)
 - [DNSSEC](#dnssec)
 - [Resolvers](#resolvers)
+- [Testing and monitoring](#testing-and-monitoring)
 
 ## Authoritative servers
 
@@ -43,6 +44,10 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [Knot Resolver](https://www.knot-resolver.cz) - A caching DNS resolver scalable from huge resolver farms down to home network routers. _`CZ.NIC`_ `GPL-3.0`.
 - [PowerDNS Recursor](https://www.powerdns.com/recursor.html) - High-end, high-performance resolving name server with multi-processor and scripting support. _`PowerDNS`_ `GPL-2.0`.
 - [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - A validating, recursive, caching DNS resolver designed to be fast and lean. _`NLnet Labs`_ `BSD-3-Clause`.
+
+## Testing and monitoring
+
+- [Zonemaster](https://zonemaster.net) - A software package that validates the quality of a DNS delegation. _`Afnic`_/_`Internetstiftelsen`_ `BSD-3-Clause`.
 
 ## Contributing
 
