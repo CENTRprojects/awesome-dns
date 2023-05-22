@@ -47,6 +47,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 ## Testing and monitoring
 
 - [blaeu](https://framagit.org/bortzmeyer/blaeu) - Programs to create distributed Internet measurements on the network of RIPE Atlas probes. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [check-soa](https://framagit.org/bortzmeyer/check-soa) - A simple command-line DNS testing tool. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Zonemaster](https://zonemaster.net) - A software package that validates the quality of a DNS delegation. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
 <!--lint enable double-link-->
