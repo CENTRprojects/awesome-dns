@@ -6,6 +6,7 @@ labels: ["add", "triage"]
 assignees:
   - mylespat
   - gjherbiet
+  - thymen
 body:
   - type: input
     id: name

@@ -6,13 +6,14 @@ labels: ["pr", "triage"]
 assignees:
   - mylespat
   - gjherbiet
+  - thymen
 body:
   - type: dropdown
     id: type
     attributes:
       label: Pull request type
       description: >
-        What change best describes the content of the pulll request?
+        What change best describes the content of the pull request?
       options:
         - New addition
         - Deletion

@@ -6,6 +6,7 @@ labels: ["update", "triage"]
 assignees:
   - mylespat
   - gjherbiet
+  - thymen
 body:
   - type: markdown
     attributes:
