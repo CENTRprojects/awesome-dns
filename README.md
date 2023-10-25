@@ -35,7 +35,11 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [LDNS](https://nlnetlabs.nl/projects/ldns/about/) - C Library and command-line tools to simplify DNS and DNSSEC operations. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [OpenDNSSEC](https://www.opendnssec.org) - Policy-based zone signer that automates the process of keeping track of DNSSEC keys and the signing of zones. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [SoftHSM](https://www.opendnssec.org/softhsm/) - Software implementation of a cryptographic store accessible through a PKCS#11 interface. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
-- [validns](https://github.com/DENICeG/validns) - DNS and DNSSEC zone file validator. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-no-red)
+- [validns](https://github.com/DENICeG/validns) - DNS and DNSSEC zone file validator. [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-no-red)
+
+## Eduction
+
+- [EduDig](https://edudig.se/) - A web-based "dig" tool that helps to understand DNS and dig. [![License: MIT](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://opensource.org/license/MIT) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
 ## Resolvers
 
