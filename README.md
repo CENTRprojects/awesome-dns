@@ -6,13 +6,20 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 
 ## Contents
 
+- [Abuse detection](#abuse-detection)
 - [Authoritative servers](#authoritative-servers)
 - [Crawlers](#crawlers)
 - [DNSSEC](#dnssec)
+- [Education](#education)
 - [Resolvers](#resolvers)
 - [Testing and monitoring](#testing-and-monitoring)
 
 <!--lint disable double-link-->
+
+## Abuse detection
+
+- [LogoMotive](https://logomotive.sidnlabs.nl/) - Detects logos on websites and provides insights into logos (mis)use. [![License](https://img.shields.io/badge/License-Custom-blue.svg)](https://logomotive.sidnlabs.nl/downloads/SIDN_LogoMotive_Software_Community_License_v1.pdf) ![Maintained: stalled](https://img.shields.io/badge/Maintained-stalled-orange)
+- [RegCheck](https://www.sidnlabs.nl/en/news-and-blogs/dns-belgium-and-sidn-collaborate-on-ml-project-aimed-at-detecting-suspect-domain-name-registrations) - Machine learning library to assess the risk of domain name registrations. ![License](https://img.shields.io/badge/License-Custom-blue.svg) ![Maintained: no](https://img.shields.io/badge/Maintained-yes-green)
 
 ## Authoritative servers
 
@@ -35,7 +42,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [LDNS](https://nlnetlabs.nl/projects/ldns/about/) - C Library and command-line tools to simplify DNS and DNSSEC operations. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [OpenDNSSEC](https://www.opendnssec.org) - Policy-based zone signer that automates the process of keeping track of DNSSEC keys and the signing of zones. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [SoftHSM](https://www.opendnssec.org/softhsm/) - Software implementation of a cryptographic store accessible through a PKCS#11 interface. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
-- [validns](https://github.com/DENICeG/validns) - DNS and DNSSEC zone file validator. [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-no-red)
+- [validns](https://github.com/DENICeG/validns) - DNS and DNSSEC zone file validator. [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: no](https://img.shields.io/badge/Maintained-no-red)
 
 ## Education
 
@@ -51,9 +58,12 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 ## Testing and monitoring
 
 - [blaeu](https://framagit.org/bortzmeyer/blaeu) - Programs to create distributed Internet measurements on the network of RIPE Atlas probes. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
-- [check_dns_soa](https://framagit.org/bortzmeyer/check_dns_soa) - Nagios (or compatible, like Icinga) plugin to monitor all the name servers of a DNS zone. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-stalled-orange)
+- [check_dns_soa](https://framagit.org/bortzmeyer/check_dns_soa) - Nagios (or compatible, like Icinga) plugin to monitor all the name servers of a DNS zone. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: stalled](https://img.shields.io/badge/Maintained-stalled-orange)
 - [check-soa](https://framagit.org/bortzmeyer/check-soa) - A simple command-line DNS testing tool. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [dns-lg](https://framagit.org/bortzmeyer/dns-lg) - DNS Looking Glass. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [DNS Workbench](https://workbench.sidnlabs.nl/) - Test multiple (authoritative) name server implementations. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) ![Maintained: stalled](https://img.shields.io/badge/Maintained-stalled-orange)
+- [ENTRADA](https://entrada.sidnlabs.nl/) - Easily store and analyze large amounts of DNS traffic. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [Internet.nl](https://internet.nl/) - Check whether a website, email or internet connection uses modern Internet Standards. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Zonemaster](https://zonemaster.net) - A software package that validates the quality of a DNS delegation. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
 <!--lint enable double-link-->
