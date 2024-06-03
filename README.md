@@ -32,7 +32,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 
 ## Crawlers
 
-- [DNS crawler](https://gitlab.labs.nic.cz/adam/dns-crawler) - DNS crawler for getting info about a huge number of DNS domains. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [DNS crawler (.cz)](https://gitlab.labs.nic.cz/adam/dns-crawler) - DNS crawler for getting info about a huge number of DNS domains. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Mercator](https://github.com/DNSBelgium/mercator) - An Open Source robust and scalable crawler for collecting information on the usage of domain names. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Signs of Life](https://gitlab.centr.org/centr/crawler/signs-of-life) - Domain name crawler tool used in CENTR ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
