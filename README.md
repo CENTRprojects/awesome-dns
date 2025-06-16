@@ -38,7 +38,9 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [Signs of Life](https://github.com/CENTRprojects/Signs-of-life) - Domain name crawler tool used in CENTR ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
 ## Data validation
-- [OpenPAQ](https://openpaq.de/) - Validates postal addresses to ensure data accuracy and integrity. Its core strength is handling real-world inputs with abbreviations, variants, extras, and typos. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+
+- [OpenPAQ](https://openpaq.de/) - Validates postal addresses to ensure data accuracy and integrity. Its core strength is handling real-world inputs with abbreviations, variants, extras, and typos. [![License: AGPL](https://img.shields.io/badge/License-AGPL-blue)](https://www.gnu.org/licenses/agpl-3.0.html.en) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+  
 ## DNSSEC
 
 - [DNSViz](https://dnsviz.net) - DNSSEC-signed zone status analysis and visualisation. [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.en.html) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
