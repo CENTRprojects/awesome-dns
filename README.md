@@ -9,6 +9,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [Abuse detection](#abuse-detection)
 - [Authoritative servers](#authoritative-servers)
 - [Crawlers](#crawlers)
+- [Data validation](#data-validation)
 - [DNSSEC](#dnssec)
 - [Education](#education)
 - [Resolvers](#resolvers)
@@ -36,6 +37,10 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [Mercator](https://github.com/DNSBelgium/mercator) - An Open Source robust and scalable crawler for collecting information on the usage of domain names. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Signs of Life](https://github.com/CENTRprojects/Signs-of-life) - Domain name crawler tool used in CENTR ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
+## Data validation
+
+- [OpenPAQ](https://openpaq.de/) - Validates postal addresses to ensure data accuracy and integrity. Its core strength is handling real-world inputs with abbreviations, variants, extras, and typos. [![License: AGPL](https://img.shields.io/badge/License-AGPL-blue)](https://www.gnu.org/licenses/agpl-3.0.html.en) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+  
 ## DNSSEC
 
 - [DNSViz](https://dnsviz.net) - DNSSEC-signed zone status analysis and visualisation. [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.en.html) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
