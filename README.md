@@ -43,6 +43,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
   
 ## DNSSEC
 
+- [cascade](https://github.com/NLnetLabs/cascade) - A friendly DNSSEC signing solution: sensible defaults, controllability, observability and flexibility written in Rust. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [DNSViz](https://dnsviz.net) - DNSSEC-signed zone status analysis and visualisation. [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.en.html) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [LDNS](https://nlnetlabs.nl/projects/ldns/about/) - C Library and command-line tools to simplify DNS and DNSSEC operations. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [OpenDNSSEC](https://www.opendnssec.org) - Policy-based zone signer that automates the process of keeping track of DNSSEC keys and the signing of zones. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
