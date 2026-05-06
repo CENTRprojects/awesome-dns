@@ -73,6 +73,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 - [IntoDNS.AI](https://intodns.ai) - AI-powered DNS & email security scanner: checks SPF, DKIM, DMARC, BIMI, MTA-STS, DNSSEC and 40+ blacklists with copy-paste AI fixes. No signup required. ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Internet.nl](https://internet.nl/) - Check whether a website, email or internet connection uses modern Internet Standards. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [Zonemaster](https://zonemaster.net) - A software package that validates the quality of a DNS delegation. [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [Tapdance](https://codeberg.org/sidn/tapdance) - A configurable, near real-time authoritative DNS statistics collector based on dnstap. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 
 <!--lint enable double-link-->
 
