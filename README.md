@@ -64,6 +64,7 @@ This list supersedes CENTR R&D projects table with a broader scope of all useful
 ## Testing and monitoring
 
 - [blaeu](https://framagit.org/bortzmeyer/blaeu) - Programs to create distributed Internet measurements on the network of RIPE Atlas probes. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
+- [CC.LA](https://cc.la/dns) - Free browser-based DNS record lookup, with related WHOIS/RDAP and TLS certificate tools. ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [check_dns_soa](https://framagit.org/bortzmeyer/check_dns_soa) - Nagios (or compatible, like Icinga) plugin to monitor all the name servers of a DNS zone. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: stalled](https://img.shields.io/badge/Maintained-stalled-orange)
 - [check-soa](https://framagit.org/bortzmeyer/check-soa) - A simple command-line DNS testing tool. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
 - [dns-lg](https://framagit.org/bortzmeyer/dns-lg) - DNS Looking Glass. [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause) ![Maintained: yes](https://img.shields.io/badge/Maintained-yes-green)
